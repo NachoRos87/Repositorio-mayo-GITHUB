@@ -1,0 +1,8 @@
+print("Hola, estoy probando Github Desktop.")
+print("Escribo en Visual Studio Code este texto.")
+print("Después, este fichero se sincronizará con Github Desktop")
+print("y a su vez con la cuenta de GitHub cuando le dé a Commit.")
+print("Cuando le demos a Push será cuando suceda esto último.")
+print("Hasta ese momento, nuestro perfil de GitHub no recibirá los cambios.")
+print("Esto mismo pasará si, en vez de escribir en Visual Studio, agregamos ")
+print("una carpeta al directorio donde se encuentra el repositorio")
